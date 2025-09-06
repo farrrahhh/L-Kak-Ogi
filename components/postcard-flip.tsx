@@ -74,8 +74,8 @@ export default function PostcardFlip() {
 
               <div className="flex-1 space-y-4">
                 <div className="text-center mb-6">
-                  <h1 className="text-2xl font-bold text-amber-900 mb-2 font-serif">For Habibie</h1>
-                  <p className="text-sm text-amber-600 italic font-serif">From: Farah aka mbak-mbak jawa</p>
+                  <h1 className="text-2xl font-bold text-amber-900 mb-2 font-serif">To Kak Ogi</h1>
+                  <p className="text-sm text-amber-600 italic font-serif">From: Farah</p>
                   <div className="w-16 h-0.5 bg-amber-400 mx-auto mt-2"></div>
                 </div>
 
